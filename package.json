@@ -5,13 +5,21 @@
   "main": "src/main.tsx",
   "type": "module",
   "scripts": {
-    "start": "bun run src/main.tsx",
-    "dev": "bun run --hot src/main.tsx"
+    "start": "bun run bin/brane.js",
+    "dev": "bun run --hot src/main.tsx",
+    "setup": "node setup.mjs"
+  },
+  "bin": {
+    "brane": "./bin/brane.js",
+    "brane-setup": "./setup.mjs"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "ink": "^4.0.0",
+    "@inquirer/prompts": "^8.3.2",
     "commander": "^11.0.0",
+    "ink": "^4.0.0",
+    "inquirer": "^13.3.2",
+    "openai": "^6.33.0",
+    "react": "^18.2.0",
     "zod": "^3.22.0"
   },
   "devDependencies": {
