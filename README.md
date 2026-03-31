@@ -1,13 +1,25 @@
 # Brane Code
 
-> **Brane Code** is an advanced AI-driven CLI designed to assist developers with complex software engineering tasks directly from the terminal.
+> **Brane Code** is an open-source, human-centric CLI for software engineering, based on the publicly available archive of the Claude Code project. Our mission is to evolve this powerful foundation into a more intuitive, human-designed experience that supports a diverse range of AI models and industry-leading workflows.
+
+---
+
+## 🚀 The Vision
+
+We are taking Brane Code in a new direction. While the core is built on the robust architecture of the original leak, we are transforming it into a tool that feels more "designed for humans" and flexible for modern engineering needs.
+
+### Key Roadmap Features:
+- **Multi-Provider Support**: Breaking the Anthropic-only barrier to support **OpenAI** and **OpenRouter** models.
+- **Human-Centric UX**: Refined terminal interactions and workflows that prioritize developer ergonomics.
+- **GStack Integration**: Native, direct integration with **Garry Tan's GStack** for opinionated, high-rigor engineering "gears" (CEO, EM, QA, etc.).
+- **Browser-Native Persistence**: Leveraging persistent headless browser states for seamless web-based debugging and testing.
 
 ---
 
 
 ## Overview
 
-Brane Code is Anthropic's official CLI tool that lets you interact with Claude directly from the terminal to perform software engineering tasks — editing files, running commands, searching codebases, managing git workflows, and more.
+Brane Code is an open-source project that provides a powerful terminal-based engineering assistant. It was originally built upon the leaked source code of Claude Code (March 2026) which became available publicly on open-source platforms. We are now expanding this foundation to create a truly independent, multi-model tool for the global developer community.
 
 This repository contains the full source code for the Brane Code engineering assistant.
 
@@ -243,4 +255,4 @@ Built-in and third-party plugins are loaded through the `plugins/` subsystem.
 
 ## Disclaimer
 
-This repository is maintained for educational and development purposes. All original source logic is 기반 (based) on the leaked source from March 2026.
+This repository is a community-driven, open-source project. All original architectural logic is based on the public archive of Claude Code that was shared openly on open-source platforms in March 2026. This version, **Brane Code**, is independently maintained and is not affiliated with Anthropic.
