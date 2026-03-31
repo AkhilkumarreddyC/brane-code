@@ -16,6 +16,16 @@ We are taking Brane Code in a new direction. While the core is built on the robu
 
 ---
 
+## 🏗️ Harness Engineering Philosophy
+
+Brane Code is more than a CLI; it is an exploration in **Harness Engineering**. Our focus is on the sophisticated orchestration layer that sits between the LLM and the local environment.
+
+- **Tool Wiring**: Deeply opinionated methods for connecting models to local execution environments.
+- **Agentic Runtime**: Managing long-running context, memory, and sequential task execution with architect-level verification.
+- **Rigorous Workflows**: Implementing high-trust loops that move beyond simple prompting into verifiable engineering routines.
+
+---
+
 
 ## Overview
 
@@ -23,8 +33,7 @@ Brane Code is an open-source project that provides a powerful terminal-based eng
 
 This repository contains the full source code for the Brane Code engineering assistant.
 
-- **Language**: TypeScript
-- **Language**: TypeScript
+- **Language**: TypeScript (Source-based evolution)
 - **Runtime**: Bun
 - **Terminal UI**: React + [Ink](https://github.com/vadimdemedes/ink) (React for CLI)
 - **Scale**: ~1,900 files, 512,000+ lines of code
